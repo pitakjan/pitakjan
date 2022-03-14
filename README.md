@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jan Piták
 - 👀 I’m interested in programming. Creating arduino projects for everyday use and Python scripts.
-- 🌱 I’m currently going to ČVUT, faculty of information technology.
+- 🌱 I’m currently going to ČVUT, faculty of electrical engineering. 
+<!-- - 🌱 I’m currently going to ČVUT, faculty of information technology.-->
 - contact: jendapitak@email.cz
 - 
 <!---
